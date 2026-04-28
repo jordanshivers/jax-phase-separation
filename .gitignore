@@ -1,0 +1,11 @@
+.DS_Store
+.vscode/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+pdf/
+pdfs/
+writeup/
+project_timeline.md
+PROJECT_TIMELINE.md
